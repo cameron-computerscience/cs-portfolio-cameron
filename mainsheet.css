@@ -1,0 +1,29 @@
+li {
+    text-align:center;
+    display:inline-black;
+    border:2px solid black;
+    padding:5px;
+    font-family:courier;
+}
+
+li:hover{
+    background-color:rgb(116, 219, 167);
+}
+
+
+ <style type="text/css">
+            h1{
+                font-family:courier;
+                font-size:15;
+                text-align:center;
+            }
+            body{
+                background-color:white;
+                font-family:arial;
+            }
+        </style>
+        
+a:
+    text-decoration: none
+        
+        
